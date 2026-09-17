@@ -2,7 +2,7 @@
 
 A list of web pages and sites that allow you to interactively visualize and explore geoscience-related data, in interactive maps and other forms. Great for education and research.
 
-![Maintenance](https://img.shields.io/maintenance/yes/2025)
+![Maintenance](https://img.shields.io/maintenance/yes/2026)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 __Contributing__:
