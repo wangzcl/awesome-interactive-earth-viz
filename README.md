@@ -48,7 +48,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) and the [code of cond
 - [USGS Climate Change Viewer](https://www.usgs.gov/tools/national-climate-change-viewer-nccv) - Downscaled CMIP climate projections for US states and watersheds.
 - [Ventusky](https://www.ventusky.com/) - Interactive weather map showing pressure, wind, cloud cover, precipitation, and temperature.
 - [Weather Spark](https://weatherspark.com/map) - Global map of average temperature patterns throughout the year.
-- - [WeatherChirp](https://weatherchirp.com) - Year-round climate normals charts (temperature, rain, sunshine) for 30,000+ cities from ERA5 / Copernicus 1991–2020 baselines.
+- [WeatherChirp](https://weatherchirp.com) - Year-round climate normals charts (temperature, rain, sunshine) for 30,000+ cities from ERA5 / Copernicus 1991–2020 baselines.
 
 ## Earth Observation
 
