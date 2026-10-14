@@ -22,6 +22,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) and the [code of cond
 - [Global Forest Watch](https://www.globalforestwatch.org/map/) - Interactive world forest map and tree cover change monitoring.
 - [Global Footprint Network](https://data.footprintnetwork.org/) - Explore ecological footprint data globally.
 - [iNaturalist](https://www.inaturalist.org/observations) - Citizen science project for identifying and mapping biodiversity observations.
+- [KoreAves](https://koreaves.com/gis/) - Interactive regional bird-occurrence evidence map for South Korea, with links to public data sources and cautions about uneven observation coverage.
 - [Map of Life](https://mol.org/) - Integration of global species distribution data from multiple sources.
 - [NatureServe Explorer Pro](https://explorer.natureserve.org/pro/Welcome) - Explore rare and endangered species in North America.
 - [Protected Planet](https://www.protectedplanet.net/) - Database and visualization of global protected areas and conservation measures.
