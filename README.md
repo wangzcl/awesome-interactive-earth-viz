@@ -26,6 +26,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) and the [code of cond
 - [NatureServe Explorer Pro](https://explorer.natureserve.org/pro/Welcome) - Explore rare and endangered species in North America.
 - [Protected Planet](https://www.protectedplanet.net/) - Database and visualization of global protected areas and conservation measures.
 
+### Regional Examples
+
+- [KoreAves](https://koreaves.com/gis/) - Interactive regional bird-occurrence evidence map for South Korea, with links to public data sources and cautions about uneven observation coverage.
+
 ## Climate and Weather
 
 - [Climate.gov](https://www.climate.gov/maps-data) - Tools and Interactive maps from NOAA.
