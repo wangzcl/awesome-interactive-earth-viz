@@ -66,6 +66,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) and the [code of cond
 - [NOAA GeoPlatform](https://noaa.maps.arcgis.com/) - Suite of geospatial data and services supporting NOAA's mission.
 - [WEkEO](https://www.wekeo.eu/) - EU Copernicus DIAS platform for environmental data access and processing.
 
+## Energy
+
+- [Mineral Record](https://mineralrecord.com/pipelines) - Interactive map of 409,268 miles of Texas permitted oil and gas pipeline, restated from Railroad Commission filings.
+
 ## Geology and Geophysics
 
 - [Global Lithological Map](https://projekte.cen.uni-hamburg.de/lithomap/) - High-resolution global map of Earth's surface rock types.
