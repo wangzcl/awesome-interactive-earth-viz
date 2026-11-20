@@ -79,6 +79,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) and the [code of cond
 - [Global Watersheds](https://mghydro.com/watersheds/) - Find upstream watersheds and downstream flow paths globally.
 - [Model My Watershed](https://modelmywatershed.org/) - Analyze watershed data and simulate water quality impacts.
 - [MyOcean](https://marine.copernicus.eu/access-data/ocean-visualisation-tools) - Copernicus Marine Service providing state-of-the-art analyses and forecasts of ocean conditions.
+- [Ocean Depth Map](https://depth.hertzmc.com/) - Approximate sea depth at your GPS position or any tapped point, on a depth-shaded chart, from the GEBCO grid (cells about 450 m) with NOAA survey depths in US coastal waters; not for navigation.
 - [U.S. Drought Monitor](https://droughtmonitor.unl.edu/) - Weekly map showing drought conditions across the US.
 - [USGS National Water Dashboard](https://dashboard.waterdata.usgs.gov/) - Access real-time water data from over 13,500 stations in the US.
 - [Watersheds by Fernleaf Interactive](https://watersheds.fernleafinteractive.com/) - Interactive map showing topological relationships between US hydrologic units.
