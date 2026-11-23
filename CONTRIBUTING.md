@@ -9,5 +9,5 @@ shown below, and insert the new entry in the appropriate category and in
 alphabetical order:
 
 ```markdown
-### [Title](URL) - Concise description.
+### [Title](URL) (@username) - Concise description.
 ```
