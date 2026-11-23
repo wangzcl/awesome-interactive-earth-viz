@@ -30,7 +30,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) and the [code of cond
 
 ### Regional
 
-- [KoreAves](https://koreaves.com/gis/) - Interactive regional bird-occurrence evidence map for South Korea, with links to public data sources.
+- [KoreAves](https://koreaves.com/gis/) (@saramjh) - Interactive regional bird-occurrence evidence map for South Korea, with links to public data sources.
 
 ## Climate and Weather
 
@@ -54,7 +54,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) and the [code of cond
 - [USGS Climate Change Viewer](https://www.usgs.gov/tools/national-climate-change-viewer-nccv) - Downscaled CMIP climate projections for US states and watersheds.
 - [Ventusky](https://www.ventusky.com/) - Interactive weather map showing pressure, wind, cloud cover, precipitation, and temperature.
 - [Weather Spark](https://weatherspark.com/map) - Global map of average temperature patterns throughout the year.
-- [WeatherChirp](https://weatherchirp.com) - Year-round climate normals charts (temperature, rain, sunshine) for 30,000+ cities from ERA5 / Copernicus 1991–2020 baselines.
+- [WeatherChirp](https://weatherchirp.com) (@684efs3) - Year-round climate normals charts (temperature, rain, sunshine) for 30,000+ cities from ERA5 / Copernicus 1991–2020 baselines.
 
 ## Earth Observation
 
@@ -71,7 +71,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) and the [code of cond
 ## Energy
 
 ### Regional
-- [Mineral Record](https://mineralrecord.com/pipelines) - Interactive map of 409,268 miles of Texas permitted oil and gas pipeline, restated from Railroad Commission filings.
+- [Mineral Record](https://mineralrecord.com/pipelines) (@684efs3) - Interactive map of 409,268 miles of Texas permitted oil and gas pipeline, restated from Railroad Commission filings.
 
 ## Geology and Geophysics
 
@@ -87,7 +87,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) and the [code of cond
 - [Global Watersheds](https://mghydro.com/watersheds/) - Find upstream watersheds and downstream flow paths globally.
 - [Model My Watershed](https://modelmywatershed.org/) - Analyze watershed data and simulate water quality impacts.
 - [MyOcean](https://marine.copernicus.eu/access-data/ocean-visualisation-tools) - Copernicus Marine Service providing state-of-the-art analyses and forecasts of ocean conditions.
-- [Ocean Depth Map](https://depth.hertzmc.com/) - Approximate sea depth at your GPS position or any tapped point, on a depth-shaded chart, from the GEBCO grid (cells about 450 m) with NOAA survey depths in US coastal waters; not for navigation.
+- [Ocean Depth Map](https://depth.hertzmc.com/) (@jaydenhertz) - Approximate sea depth at your GPS position or any tapped point, on a depth-shaded chart, from the GEBCO grid (cells about 450 m) with NOAA survey depths in US coastal waters; not for navigation.
 - [U.S. Drought Monitor](https://droughtmonitor.unl.edu/) - Weekly map showing drought conditions across the US.
 - [USGS National Water Dashboard](https://dashboard.waterdata.usgs.gov/) - Access real-time water data from over 13,500 stations in the US.
 - [Watersheds by Fernleaf Interactive](https://watersheds.fernleafinteractive.com/) - Interactive map showing topological relationships between US hydrologic units.
