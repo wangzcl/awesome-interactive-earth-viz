@@ -34,10 +34,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) and the [code of cond
 
 ## Climate and Weather
 
-- [Climate.gov](https://www.climate.gov/maps-data) - Tools and Interactive maps from NOAA.
+- ~~[Climate.gov](https://www.climate.gov/maps-data) - Tools and Interactive maps from NOAA.~~ As of June 2025, this website is no longer available.
 - [Climate Reanalyzer](https://climatereanalyzer.org/) - Visualize climate and weather forecast models with various tools.
 - [ClimateSERV](https://climateserv.servirglobal.net/) - Visualize and download rainfall and temperature forecasts, as well as historic rainfall and vegetation conditions.
-- [Climate Time Machine](https://climate.nasa.gov/interactives/climate-time-machine) - NASA's visualization tool showing changes in key climate indicators over time.
+- [NASA Climate Interactives](https://science.nasa.gov/climate-change/climate-interactives) - NASA's visualization tool showing changes in key climate indicators.
 - [CONUS Climate Console](http://www.climateconsole.org/conus) - Interactively explore climate projections across continental US watersheds & ecoregions.
 - [Copernicus Climate Atlas](https://atlas.climate.copernicus.eu/atlas) - Explore past and future climate data from Copernicus.
 - [Earth Nullschool](https://earth.nullschool.net/) - Animated real-time and historical global wind, weather, ocean conditions.
@@ -46,7 +46,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) and the [code of cond
 - [KNMI Climate Explorer](https://climexp.knmi.nl/) - Advanced tool for investigating and correlating climate data.
 - [Lobelia Climate Explorer](https://www.lobelia.earth/case-studies/past-climate-explorer) - Explore worldwide ERA5 climate datasets.
 - [NCEI Climate Monitoring](https://www.ncei.noaa.gov/monitoring) - Suite of climate monitoring tools from NOAA, see also [NCEI maps and geospatial products](https://www.ncei.noaa.gov/maps-and-geospatial-products).
-- [NOAA Climate Change Portal](https://psl.noaa.gov/ipcc/) - Access and display climate and earth system model output that informed the IPCC.
+- ~~[NOAA Climate Change Portal](https://psl.noaa.gov/ipcc/) - Access and display climate and earth system model output that informed the IPCC.~~ As of June 2025, this website is no longer available.
 - [NOAA GML Data Viewer](https://gml.noaa.gov/dv/) - Visualize greenhouse gas, aerosol, and radiation data.
 - [PSL Gridded Climate Data](https://psl.noaa.gov/data/gridded/) - Archive of gridded climate datasets with visualization capabilities.
 - [The Climate Explorer](https://crt-climate-explorer.nemac.org/) - County-level climate projection explorer for the US.
