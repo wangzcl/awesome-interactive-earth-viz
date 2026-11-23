@@ -2,6 +2,8 @@
 
 A list of web pages and sites that allow you to interactively visualize and explore geoscience-related data, in interactive maps and other forms. Great for education and research.
 
+Originally focused on continental and global scale visualization, this repo currently spans multiple spatial scales, with regional cases suggested by our contributors.
+
 ![Maintenance](https://img.shields.io/maintenance/yes/2026)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
@@ -26,9 +28,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) and the [code of cond
 - [NatureServe Explorer Pro](https://explorer.natureserve.org/pro/Welcome) - Explore rare and endangered species in North America.
 - [Protected Planet](https://www.protectedplanet.net/) - Database and visualization of global protected areas and conservation measures.
 
-### Regional Examples
+### Regional
 
-- [KoreAves](https://koreaves.com/gis/) - Interactive regional bird-occurrence evidence map for South Korea, with links to public data sources and cautions about uneven observation coverage.
+- [KoreAves](https://koreaves.com/gis/) - Interactive regional bird-occurrence evidence map for South Korea, with links to public data sources.
 
 ## Climate and Weather
 
@@ -68,6 +70,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) and the [code of cond
 
 ## Energy
 
+### Regional
 - [Mineral Record](https://mineralrecord.com/pipelines) - Interactive map of 409,268 miles of Texas permitted oil and gas pipeline, restated from Railroad Commission filings.
 
 ## Geology and Geophysics
@@ -75,9 +78,6 @@ Please read the [contribution guidelines](CONTRIBUTING.md) and the [code of cond
 - [Global Lithological Map](https://projekte.cen.uni-hamburg.de/lithomap/) - High-resolution global map of Earth's surface rock types.
 - [Interactive Earthquake Browser](https://ds.iris.edu/ieb/) - Explore global seismic events.
 - [NGMDB MapView](https://ngmdb.usgs.gov/mapview/) - US geological maps from the National Geologic Map Database.
-- [NGMDB TopoView](https://ngmdb.usgs.gov/topoview/) - Archive of US topographic maps.
-- [Topo Map Explorer](https://livingatlas.arcgis.com/topomapexplorer/) - Tool for exploring historical US topographic maps.
-- [UGSG National Map](https://apps.nationalmap.gov/) - Collaborative platform for US topographic information.
 - [USGS Earthquake Hazards](https://earthquake.usgs.gov/) - USGS program for monitoring and reporting on earthquakes.
 
 ## Hydrosphere
@@ -94,6 +94,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) and the [code of cond
 
 ## Miscellaneous
 
+- [NGMDB TopoView](https://ngmdb.usgs.gov/topoview/) - Archive of US topographic maps.
+- [Topo Map Explorer](https://livingatlas.arcgis.com/topomapexplorer/) - Tool for exploring historical US topographic maps.
+- [UGSG National Map](https://apps.nationalmap.gov/) - Collaborative platform for US topographic information.
 - [ArcGIS Living Atlas of the World](https://livingatlas.arcgis.com/) - Comprehensive collection of global geographic information and maps.
 - [Climate Impact Lab](https://www.impactlab.org/map/) - Measure and communicate climate change impacts through visualizations.
 - [Digital Atlas Project](https://www.digitalatlasproject.net/) - Educational resource for world and regional maps and visualizations.
