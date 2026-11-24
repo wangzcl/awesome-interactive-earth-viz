@@ -34,6 +34,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) and the [code of cond
 
 ## Climate and Weather
 
+- [ClimaClue](https://climaclue.com) (@yash64ag) - Interactive 3D globe of climate normals: click any land point for its Köppen–Geiger type and monthly temperature, precipitation, snow, sunshine, wind and humidity (CHELSA V2.1, ERA5-Land, CRU).
 - ~~[Climate.gov](https://www.climate.gov/maps-data) - Tools and Interactive maps from NOAA.~~ As of June 2025, this website is no longer available.
 - [Climate Reanalyzer](https://climatereanalyzer.org/) - Visualize climate and weather forecast models with various tools.
 - [ClimateSERV](https://climateserv.servirglobal.net/) - Visualize and download rainfall and temperature forecasts, as well as historic rainfall and vegetation conditions.
